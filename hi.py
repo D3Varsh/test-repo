@@ -2,4 +2,4 @@
 
 print("Hi guys! this is Devarsh")
 
-print("Namaste")
+print("Sayonara!")
